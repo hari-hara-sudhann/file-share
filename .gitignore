@@ -1,0 +1,22 @@
+target/
+.DS_Store
+*.class
+*.log
+
+# IDE and editor files
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS and temporary files
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Alternate Java build directories
+build/
+out/
