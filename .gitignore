@@ -1,4 +1,14 @@
 target/
+dist/
+release/
+jpackage-input/
+jpackage-output/
+fileshare/
+*.app/
+*.dmg
+*.pkg
+*.tar.gz
+*.zip
 .DS_Store
 *.class
 *.log
